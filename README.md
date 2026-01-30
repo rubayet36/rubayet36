@@ -7,7 +7,7 @@
 <h3 align="center"><samp>Frontend Engineer | Web Apps & Dashboards</samp></h3>
 
 <div align="center">
-  <img alt="Coding" width="900" loading="lazy"
+  <img alt="Coding" width="600" loading="lazy"
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV4bTBsaGhmbnhsanVobWt2NzE3ZXFuZGY3Z3V5ZXJ0enF6bnpibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3aK5O1qdMz9vtlfL2/giphy.gif">
 </div>
 
