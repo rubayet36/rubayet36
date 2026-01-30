@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Rubayet Khan !]
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 ## I'm a Computer Science Engineer 
 
