@@ -49,26 +49,51 @@ Selected among **120+ teams** for system design, implementation, and UI quality
 
 ---
 
-## 💻 Languages & Tools (Frontend-first)
+## 💻 Languages & Tools
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"><br>JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"><br>Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"><br>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"><br>Figma</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"><br>Figma</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"><br>Firebase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="45"><br>Supabase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"><br>VS Code</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="45"><br>NestJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="45"><br>Spring Boot</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"><br>MySQL</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><img src="https://skillicons.dev/icons?i=prisma" width="45"><br>Prisma</td>
+    <td align="center" colspan="3"><img src="https://skillicons.dev/icons?i=docker" width="45"><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><img src="https://skillicons.dev/icons?i=nginx" width="45"><br>Nginx</td>
+    <td align="center" colspan="3"><img src="https://skillicons.dev/icons?i=aws" width="45"><br>AWS</td>
   </tr>
 </table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+
+</div>
 
 ---
 
@@ -76,14 +101,14 @@ Selected among **120+ teams** for system design, implementation, and UI quality
 
 <p align="center">
   <img height="180"
-    src="https://github-readme-stats-zeta-teal-36.vercel.app/api?username=rubayet36&amp;show_icons=true&amp;hide_border=true&amp;cache_seconds=86400" />
+    src="https://github-readme-stats-zeta-teal-36.vercel.app/api?username=rubayet36&show_icons=true&hide_border=true&cache_seconds=86400" />
   <img height="180"
-    src="https://github-readme-stats-zeta-teal-36.vercel.app/api/top-langs/?username=rubayet36&amp;layout=compact&amp;hide_border=true&amp;cache_seconds=86400" />
+    src="https://github-readme-stats-zeta-teal-36.vercel.app/api/top-langs/?username=rubayet36&layout=compact&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rubayet36&amp;theme=github-compact" />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rubayet36&theme=github-compact" />
 </p>
 
 <p align="center"><sub>Open to frontend roles, internships, and collaboration</sub></p>
