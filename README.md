@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Rubayet Khan</samp></h2>
-<h3 align="center"><samp>Frontend Engineer | Web Apps & Dashboards</samp></h3>
+<h3 align="center"><samp>Software Engineer | Web Apps & Dashboards</samp></h3>
 
 <div align="center">
   <img alt="Coding" width="600" loading="lazy"
@@ -14,7 +14,7 @@
 <br>
 
 <samp>
-- 🎨 Frontend engineer focused on **interactive, user-first web applications**  
+- 🎨 Software engineer focused on **interactive, user-first web applications**  
 - 📊 Build **dashboards, feeds, and real-time interfaces**  
 - 🔗 Integrate frontend systems with **APIs, auth, and AI services**  
 - 💡 Care deeply about UX, clarity, and performance
