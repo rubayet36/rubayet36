@@ -140,11 +140,14 @@
 </div>
 
 ---
+<!-- 
 ## 🧩 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rubayet36?theme=dark&font=baloo2&ext=activity" />
 </p>
+## 📟 GitHub Activity 
+-->
 ## 📟 GitHub Activity
 
 <p align="center">
